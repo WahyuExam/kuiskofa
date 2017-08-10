@@ -1,0 +1,50 @@
+KUIS BERHADIAH 'BILANGAN 2^n' (Rp. 200K)
+
+Bila bilangan dilambangkan sebagai di bawa berikut :
+
+       1 = A
+       2 = B
+       4 = C
+       8 = D
+      16 = E
+      32 = F
+      64 = G
+     128 = H
+     256 = I
+     512 = J
+    1024 = K
+    2048 = L
+    4096 = M
+    8192 = N
+   16384 = O
+   32768 = P
+   65536 = Q
+  131072 = R
+  262144 = S
+  524288 = T
+ 1048576 = U
+ 2097152 = V
+ 4194304 = W
+ 8388608 = X
+16777216 = Y
+33554432 = Z
+
+maka dari table bilangan 2^n di atas maka bilangan berikut dapat dilambangkat seperti di bawah ini :
+
+   3 = BA
+   5 = CA
+  11 = DBA
+2051 = LBA
+dan seterus nya...
+
+Tugas kuis nya :
+Buatlah sebuah fungsi menggunakan delphi untuk menerjemahkan angka (Integer) kebentuk ABCD...seperti kasus di atas.
+
+ 
+Pemenang adalah jawaban yg benar dan paling efesien...
+
+jawaban kirimkan ke email : maskofa@gmail.com dengan subyek [KUIS BILANGAN 2^N]
+
+
+Jawaban dikirimkan paling lambat tgl 11 Agustus 2017
+*keputusan pemenang tidak dapat diganggu gugat.
